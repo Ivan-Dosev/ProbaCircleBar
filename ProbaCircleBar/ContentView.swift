@@ -10,7 +10,16 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        
+        ZStack {
+            Color.green.opacity(0.4)
+            VStack {
+                Text("Dossi")
+              
+                Arda001()
+            }
+            
+        }.edgesIgnoringSafeArea(.all)
     }
 }
 
