@@ -18,6 +18,7 @@ struct ContentView: View {
                 
               //  Arda001()
                 ArdaImage()
+                ArdaText()
             }
             
         }.edgesIgnoringSafeArea(.all)
