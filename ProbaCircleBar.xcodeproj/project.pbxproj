@@ -17,6 +17,7 @@
 		703B52CA24A91AC20075886B /* ProbaCircleBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B52C924A91AC20075886B /* ProbaCircleBarTests.swift */; };
 		703B52D524A91AC20075886B /* ProbaCircleBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B52D424A91AC20075886B /* ProbaCircleBarUITests.swift */; };
 		703B52E324A91C430075886B /* Arda001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B52E224A91C430075886B /* Arda001.swift */; };
+		703B52E524A99E980075886B /* ArdaImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703B52E424A99E980075886B /* ArdaImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		703B52D424A91AC20075886B /* ProbaCircleBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProbaCircleBarUITests.swift; sourceTree = "<group>"; };
 		703B52D624A91AC20075886B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		703B52E224A91C430075886B /* Arda001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arda001.swift; sourceTree = "<group>"; };
+		703B52E424A99E980075886B /* ArdaImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArdaImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +85,6 @@
 		703B52A324A91AB20075886B = {
 			isa = PBXGroup;
 			children = (
-				703B52E224A91C430075886B /* Arda001.swift */,
 				703B52AE24A91AB30075886B /* ProbaCircleBar */,
 				703B52C824A91AC20075886B /* ProbaCircleBarTests */,
 				703B52D324A91AC20075886B /* ProbaCircleBarUITests */,
@@ -108,6 +109,8 @@
 				703B52B124A91AB30075886B /* SceneDelegate.swift */,
 				703B52B624A91AB30075886B /* ContentView.swift */,
 				703B52B824A91AC10075886B /* Assets.xcassets */,
+				703B52E224A91C430075886B /* Arda001.swift */,
+				703B52E424A99E980075886B /* ArdaImage.swift */,
 				703B52BD24A91AC10075886B /* LaunchScreen.storyboard */,
 				703B52C024A91AC10075886B /* Info.plist */,
 				703B52B324A91AB30075886B /* ProbaCircleBar.xcdatamodeld */,
@@ -278,6 +281,7 @@
 				703B52B224A91AB30075886B /* SceneDelegate.swift in Sources */,
 				703B52B724A91AB30075886B /* ContentView.swift in Sources */,
 				703B52B524A91AB30075886B /* ProbaCircleBar.xcdatamodeld in Sources */,
+				703B52E524A99E980075886B /* ArdaImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

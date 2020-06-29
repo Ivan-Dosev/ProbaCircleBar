@@ -15,8 +15,9 @@ struct ContentView: View {
             Color.green.opacity(0.4)
             VStack {
                 Text("Dossi")
-              
-                Arda001()
+                
+              //  Arda001()
+                ArdaImage()
             }
             
         }.edgesIgnoringSafeArea(.all)
